@@ -5,7 +5,7 @@
 hi, i am vansh aggarwal.
 i just make the portfolio using html , and tailwind css.
 
-# Rist Page of Website
+# Frist Page of Website
 ![project screenshot](website-images/1.png)
 
 
